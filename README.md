@@ -1,2 +1,2 @@
 # OOPS
-Object Oriented Prigramming
+Object Oriented Programming
